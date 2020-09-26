@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlindDating", "BlindDating.csproj", "{0CC33C3D-1F8D-4157-B698-2B17E9620627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC33C3D-1F8D-4157-B698-2B17E9620627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC33C3D-1F8D-4157-B698-2B17E9620627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC33C3D-1F8D-4157-B698-2B17E9620627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC33C3D-1F8D-4157-B698-2B17E9620627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F50F2C0B-AABA-46B0-A848-EE457AC6E0FE}
+	EndGlobalSection
+EndGlobal
